@@ -2,20 +2,20 @@ import pageConfApi from '../common/pageConfApi'
 import pageConf from './pageConf'
 
 const config = {
-  title: 'aha的博客',
+  title: 'brite的博客',
 
   titleSuffix: 'Blogsue',
 
   // 界面右边，Github头像下的标语
   // 你可以写自己的座右铭
-  description: '副标题',
+  description: 'brite的博客',
 
   // 界面右边，github头像下的链接按钮
   userLinks: [
     {
       title: 'GitHub',
       icon: 'user',
-      url: 'https://github.com/coderming'
+      url: 'https://github.com/briteming'
     }
   ],
   /**
@@ -30,8 +30,8 @@ const config = {
   repo: 'blogsue',
 
   // 请申请一个clientID
-  clientID: 'Ov23liyGOYXrvPcTadA3',
-  clientSecret: '313d4b8276e9fbf912050d92c7183f2b6f68070b',
+  clientID: 'Ov23lifqmhXz9nKkc6bt',
+  clientSecret: '998a1d8b8b2eaebf07a5028bcbf3eab24cd98673',
   /**
    * 在本博客显示的其他issue创建者
    * 项目所有者（组织仓库的话为所有组织成员）及COLLABORATOR默认会显示
@@ -62,7 +62,7 @@ const config = {
   navItem: [
     {
       name: 'Github',
-      url: 'https://github.com/xxx',
+      url: 'https://github.com/briteming',
       icon: 'person'
     },
     {
